@@ -169,33 +169,33 @@ const Footer = () => {
             
             <div className="flex items-center space-x-4">
               {/* Credit Section */}
-              <div className="inline-flex items-center gap-3 rounded-lg px-4 py-2.5 border-2 border-gray-300 bg-white shadow-md hover:shadow-lg hover:bg-gray-50 transition-all duration-300">
+              <div className="inline-flex items-center gap-2 rounded-md px-3 py-1.5 border border-gray-300 bg-white shadow-sm hover:shadow-md hover:bg-gray-50 transition-all duration-300">
                 <a
                   href="https://fabulousmedia.in"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="rounded p-1 hover:opacity-80 transition-opacity flex items-center justify-center hover:scale-105 transition-transform"
+                  className="rounded p-0.5 hover:opacity-80 transition-opacity flex items-center justify-center hover:scale-105 transition-transform"
                   aria-label="FabulousMedia"
                 >
                   <img
                     src="/f.png"
                     alt="FabulousMedia"
-                    className="h-8 w-auto object-contain"
+                    className="h-2 w-auto object-contain"
                     loading="lazy"
                   />
                 </a>
-                <div className="h-8 w-px bg-gray-400"></div>
+                <div className="h-2 w-px bg-gray-300"></div>
                 <a
                   href="https://gocommercially.com"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="rounded p-1 hover:opacity-80 transition-opacity flex items-center justify-center hover:scale-105 transition-transform"
+                  className="rounded p-0.5 hover:opacity-80 transition-opacity flex items-center justify-center hover:scale-105 transition-transform"
                   aria-label="GoCommercially"
                 >
                   <img
                     src="/g.png"
                     alt="GoCommercially"
-                    className="h-8 w-auto object-contain"
+                    className="h-2 w-auto object-contain"
                     loading="lazy"
                   />
                 </a>
