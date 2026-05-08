@@ -5,14 +5,14 @@ const FertilityJourneySupport = () => {
     {
       title: "Struggling to conceive?",
       description: "You don't have to figure this out on your own. Get clarity on what's holding you back.",
-      image: "/concive.png",
+      image: "/P (2).png",
       category: "Fertility Issues",
       categoryColor: "text-pink-500"
     },
     {
       title: "Want a baby with your own DNA?",
       description: "Advanced IVF solutions focused on own egg, own sperm, own DNA, own baby.",
-      image: "/baby.png",
+      image: "/s.png",
       category: "IVF Related Treatments",
       categoryColor: "text-primary-blue"
     },
